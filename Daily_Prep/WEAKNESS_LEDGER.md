@@ -3,7 +3,7 @@
 Running scorecard. Updated after every graded answer. This drives question selection —
 weak topics get re-asked under different framings until they hit two consecutive 3+ grades.
 
-**Last updated:** 2026-09-18 (Day 1 — baseline, no data yet)
+**Last updated:** 2026-09-18 end of day (Day 1 — baseline, still no graded data)
 
 > **Open calibration question:** 18 months of pretraining covers a wide range — from
 > "owned the data pipeline" to "owned the model architecture" to "owned the 4096-GPU run."
@@ -14,7 +14,9 @@ weak topics get re-asked under different framings until they hit two consecutive
 
 ## Active Weak Areas
 
-*Empty — baseline diagnostic in progress. Topics populate here as answers get graded.*
+*Empty. Q1 was posed but not answered, so nothing has been graded yet. This section stays
+empty until there is real data — an unanswered question is not evidence of weakness, and
+guessing at weak areas would make the ledger worse than useless.*
 
 | Topic | Grades | Trend | Last tested | Notes |
 |---|---|---|---|---|
@@ -71,4 +73,18 @@ Tracks which areas have been tested at all. Untested ≠ strong.
 
 Cross-cutting habits that cost points regardless of topic. The highest-leverage thing to fix.
 
-*Populates after ~5 graded answers.*
+*Populates after ~5 graded answers. Currently 0.*
+
+---
+
+## Concepts Delivered
+
+Reading coverage. Separate from tested coverage above — reading a topic is not evidence of
+being able to answer on it under pressure.
+
+| # | Day | Track | Topic |
+|---|---|---|---|
+| C01 | 1 AM | FDE | Inference economics: prefill/decode, KV cache, arithmetic intensity |
+| C02 | 1 AM | Pretraining | Parallelism strategy: DP/FSDP/TP/PP/EP, bubble math, comm volume |
+| C03 | 1 PM | FDE | Evals: sample-size math, the eval ladder, judge biases, RAG decomposition |
+| C04 | 1 PM | Pretraining | Mixed precision, loss spikes, numerical stability, debugging protocol |

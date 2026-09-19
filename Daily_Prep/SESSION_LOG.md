@@ -30,10 +30,22 @@ pretraining interview topic, pitched at derive-it-from-scratch rather than recal
 | Q1 | Customer's assistant is "slow and expensive" — diagnose and fix | Inference economics + scoping | ⏳ pending | Baseline diagnostic. Also probes pretraining↔inference transfer. |
 
 ### 🌙 Evening Concept Drop — 2 topics
-*Pending — fires 7pm PT*
 
-Planned: FDE → evals and measurement. Pretraining → mixed precision, loss spikes,
-numerical stability.
+| # | Track | Topic |
+|---|---|---|
+| C03 | FDE | [Evals: Measuring Whether an LLM System Actually Got Better](concepts/Day_01_Evening_Evals_And_Measurement.md) |
+| C04 | Pretraining | [Mixed Precision, Loss Spikes, and Numerical Stability](concepts/Day_01_Evening_Numerical_Stability.md) |
+
+C03 pairs with C01: morning was "what does it cost," evening is "did it get better."
+C04 pairs with C02: morning was "how do you split the work," evening is "what breaks at 3am."
+
+### 📋 End of Day 1
+
+**Questions asked:** 1 · **Answered:** 0 · **Graded:** 0
+
+Q1 remains open. No grades recorded, so the ledger stays at baseline and tonight's topics
+were selected by coverage priority rather than by demonstrated weakness. Topic selection
+becomes weakness-driven as soon as there are graded answers to work from.
 
 ---
 
