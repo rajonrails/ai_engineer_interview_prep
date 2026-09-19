@@ -58,3 +58,30 @@ becomes weakness-driven as soon as there are graded answers to work from.
 | Throughout the day | Interview questions, one at a time, in the feedback loop |
 
 Both drops are automated as scheduled routines bound to this prep session.
+
+---
+
+## Day 2 — 2026-09-19
+
+### ☀️ Morning Concept Drop — 2 topics
+
+| # | Track | Topic |
+|---|---|---|
+| C05 | FDE | [Agents, Tool Calling, and Action Safety](concepts/Day_02_Morning_Agents_And_Action_Safety.md) |
+| C06 | Pretraining | [Scaling Laws and Compute Budgeting](concepts/Day_02_Morning_Scaling_Laws.md) |
+
+Selection rationale: still no graded answers, so topics are chosen by coverage priority
+rather than demonstrated weakness. C05 and C06 are the two highest-frequency untested areas
+on their respective coverage maps — agents are what FDEs actually deploy, and compute
+budgeting is the canonical pretraining design question.
+
+### 🎤 Questions
+
+| # | Question | Area | Grade | Notes |
+|---|---|---|---|---|
+| Q1 | Fintech assistant "slow and expensive" — diagnose and respond to the VP | Inference economics + scoping | ⏳ open | Carried from Day 1 |
+| Q2 | 70B loss spike at step 41k, $400K restart cost | Loss-curve debugging + judgment | ⏳ open | Carried from Day 1 |
+| Q3 | Agent with refund authority — design the safety model | Agents + action safety | ⏳ open | |
+
+### 🌙 Evening Concept Drop — 2 topics
+*Pending — fires 7pm PT*

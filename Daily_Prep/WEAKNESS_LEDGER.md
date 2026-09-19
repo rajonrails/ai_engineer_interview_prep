@@ -3,7 +3,7 @@
 Running scorecard. Updated after every graded answer. This drives question selection —
 weak topics get re-asked under different framings until they hit two consecutive 3+ grades.
 
-**Last updated:** 2026-09-18 end of day (Day 1 — baseline, still no graded data)
+**Last updated:** 2026-09-19 morning (Day 2 — still no graded data; 3 questions open)
 
 > **Open calibration question:** 18 months of pretraining covers a wide range — from
 > "owned the data pipeline" to "owned the model architecture" to "owned the 4096-GPU run."
@@ -88,3 +88,5 @@ being able to answer on it under pressure.
 | C02 | 1 AM | Pretraining | Parallelism strategy: DP/FSDP/TP/PP/EP, bubble math, comm volume |
 | C03 | 1 PM | FDE | Evals: sample-size math, the eval ladder, judge biases, RAG decomposition |
 | C04 | 1 PM | Pretraining | Mixed precision, loss spikes, numerical stability, debugging protocol |
+| C05 | 2 AM | FDE | Agents: loop failure modes, tool design, action safety tiers, prompt injection |
+| C06 | 2 AM | Pretraining | Scaling laws, 6ND, Chinchilla vs inference-aware budgeting |
