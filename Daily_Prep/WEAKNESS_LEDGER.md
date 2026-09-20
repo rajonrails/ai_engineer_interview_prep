@@ -3,7 +3,7 @@
 Running scorecard. Updated after every graded answer. This drives question selection —
 weak topics get re-asked under different framings until they hit two consecutive 3+ grades.
 
-**Last updated:** 2026-09-19 end of day (Day 2 — still no graded data; 3 questions open)
+**Last updated:** 2026-09-20 morning (Day 3 — still no graded data; 3 questions open)
 
 > **Open calibration question:** 18 months of pretraining covers a wide range — from
 > "owned the data pipeline" to "owned the model architecture" to "owned the 4096-GPU run."
@@ -97,3 +97,5 @@ being able to answer on it under pressure.
 | C06 | 2 AM | Pretraining | Scaling laws, 6ND, Chinchilla vs inference-aware budgeting |
 | C07 | 2 PM | FDE | RAG: recall as ceiling, chunking, hybrid search + RRF, reranking, RAG vs long context |
 | C08 | 2 PM | Pretraining | Data pipelines: MinHash dedup, quality filters, decontamination, mixing, annealing |
+| C09 | 3 AM | FDE | Fine-tuning: the ladder, knowledge vs behavior, LoRA math, the customer conversation |
+| C10 | 3 AM | Pretraining | MHA/MQA/GQA, FlashAttention online softmax, RoPE, context extension (PI/NTK/YaRN) |

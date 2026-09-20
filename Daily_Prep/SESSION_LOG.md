@@ -100,3 +100,27 @@ The concept drops continue because they have standalone value, but the grading l
 which is the actual mechanism of this program — has not started. The ledger cannot
 function without answers, and topic selection stays coverage-driven rather than
 weakness-driven until it does.
+
+---
+
+## Day 3 — 2026-09-20
+
+### ☀️ Morning Concept Drop — 2 topics
+
+| # | Track | Topic |
+|---|---|---|
+| C09 | FDE | [Fine-Tuning: When, When Not, and What It Actually Costs](concepts/Day_03_Morning_Fine_Tuning_Decisions.md) |
+| C10 | Pretraining | [Attention Variants, FlashAttention, and Long Context](concepts/Day_03_Morning_Attention_And_Long_Context.md) |
+
+Selection rationale: coverage-driven (no graded data yet). C09 closes the loop on Q1, where
+the customer asks to fine-tune for what is a retrieval problem. C10 covers transformer
+internals and attention variants, both untested and both core to the pretraining loop.
+
+### 🎤 Questions
+
+No new question posed. Q1, Q2 and Q3 remain open from Days 1-2; the standing offer to
+unstick the loop (model answer for Q2, shorter question format, or a format change) is
+also open. Not re-asking.
+
+### 🌙 Evening Concept Drop — 2 topics
+*Pending — fires 7pm PT*
