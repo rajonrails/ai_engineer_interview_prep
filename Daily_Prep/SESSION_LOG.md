@@ -84,4 +84,19 @@ budgeting is the canonical pretraining design question.
 | Q3 | Agent with refund authority — design the safety model | Agents + action safety | ⏳ open | |
 
 ### 🌙 Evening Concept Drop — 2 topics
-*Pending — fires 7pm PT*
+
+| # | Track | Topic |
+|---|---|---|
+| C07 | FDE | [RAG and Retrieval Quality](concepts/Day_02_Evening_RAG_Retrieval_Quality.md) |
+| C08 | Pretraining | [Pretraining Data: Dedup, Filtering, Mixing, Annealing](concepts/Day_02_Evening_Pretraining_Data_Pipelines.md) |
+
+### 📋 End of Day 2
+
+**Questions asked:** 3 cumulative · **Answered:** 0 · **Graded:** 0
+
+**No new question posed tonight — deliberate.** Three open and unanswered is already a
+backlog; adding a fourth would make the queue less likely to be engaged with, not more.
+The concept drops continue because they have standalone value, but the grading loop —
+which is the actual mechanism of this program — has not started. The ledger cannot
+function without answers, and topic selection stays coverage-driven rather than
+weakness-driven until it does.
