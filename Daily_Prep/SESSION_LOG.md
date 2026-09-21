@@ -137,3 +137,25 @@ C12 delivers the follow-up C02 promised — the "node dies at step 40,000" scena
 **Questions asked:** 3 cumulative · **Answered:** 0 · **Graded:** 0 · **Concepts delivered:** 12
 
 Ledger remains at baseline. Topic selection is still coverage-driven.
+
+---
+
+## Day 4 — 2026-09-21
+
+### ☀️ Morning Concept Drop — 2 topics
+
+| # | Track | Topic |
+|---|---|---|
+| C13 | FDE | [Scoping Under Ambiguity: The Core FDE Skill](concepts/Day_04_Morning_Customer_Scoping.md) |
+| C14 | Pretraining | [Optimizers, Learning-Rate Schedules, and muP](concepts/Day_04_Morning_Optimizers_And_Schedules.md) |
+
+Selection rationale: C13 is the last major untested FDE area and the one that is judgment
+rather than knowledge — it is the round strong engineers most often fail. C14 completes the
+pretraining core with the "you only get one run" hyperparameter question.
+
+### 🎤 Questions
+
+No new question. Q1, Q2 and Q3 remain open from Days 1-2.
+
+### 🌙 Evening Concept Drop — 2 topics
+*Pending — fires 7pm PT*
