@@ -123,4 +123,17 @@ unstick the loop (model answer for Q2, shorter question format, or a format chan
 also open. Not re-asking.
 
 ### 🌙 Evening Concept Drop — 2 topics
-*Pending — fires 7pm PT*
+
+| # | Track | Topic |
+|---|---|---|
+| C11 | FDE | [Production Monitoring and Incident Response](concepts/Day_03_Evening_Production_Monitoring.md) |
+| C12 | Pretraining | [Checkpointing, Fault Tolerance, and MFU Debugging at Scale](concepts/Day_03_Evening_Checkpointing_And_Fault_Tolerance.md) |
+
+C11 pairs with C03: evals measure before shipping, monitoring measures after.
+C12 delivers the follow-up C02 promised — the "node dies at step 40,000" scenario.
+
+### 📋 End of Day 3
+
+**Questions asked:** 3 cumulative · **Answered:** 0 · **Graded:** 0 · **Concepts delivered:** 12
+
+Ledger remains at baseline. Topic selection is still coverage-driven.
