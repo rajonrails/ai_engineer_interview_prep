@@ -3,7 +3,7 @@
 Running scorecard. Updated after every graded answer. This drives question selection —
 weak topics get re-asked under different framings until they hit two consecutive 3+ grades.
 
-**Last updated:** 2026-09-21 morning (Day 4 — still no graded data; 3 questions open)
+**Last updated:** 2026-09-21 end of day (Day 4 — still no graded data; 3 questions open; coverage maps now complete)
 
 > **Open calibration question:** 18 months of pretraining covers a wide range — from
 > "owned the data pipeline" to "owned the model architecture" to "owned the 4096-GPU run."
@@ -80,6 +80,12 @@ bottleneck this program was built to address — the grading loop is. If the que
 is the friction (too long, too open-ended, wrong time of day), that is worth changing;
 the format is a means, not the point.
 
+**Process note (Day 4):** 16 concepts delivered, both coverage maps complete, still 0 graded
+answers. Breadth is now saturated. Further concept files add less value per day than a single
+graded answer would, because depth and pressure-testing both require knowing where the gaps
+actually are. The drops continue on schedule as requested, but the program is running on one
+cylinder until the loop closes.
+
 ---
 
 ## Concepts Delivered
@@ -103,3 +109,5 @@ being able to answer on it under pressure.
 | C12 | 3 PM | Pretraining | Young/Daly checkpoint interval, async/distributed checkpointing, stragglers, MFU debugging |
 | C13 | 4 AM | FDE | Scoping: the discovery questions, finding the real constraint, two-week tests, the demo trap |
 | C14 | 4 AM | Pretraining | AdamW decoupled decay, beta2=0.95, clipping placement, WSD schedules, muP transfer |
+| C15 | 4 PM | FDE | Context engineering: position effects, the cache boundary, compaction, untrusted delimiting |
+| C16 | 4 PM | Pretraining | SFT, RLHF/PPO and the KL term, DPO, RLVR, what post-training needs from the base |

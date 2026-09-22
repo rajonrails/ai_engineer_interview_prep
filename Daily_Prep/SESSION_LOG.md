@@ -158,4 +158,16 @@ pretraining core with the "you only get one run" hyperparameter question.
 No new question. Q1, Q2 and Q3 remain open from Days 1-2.
 
 ### 🌙 Evening Concept Drop — 2 topics
-*Pending — fires 7pm PT*
+
+| # | Track | Topic |
+|---|---|---|
+| C15 | FDE | [Context Engineering](concepts/Day_04_Evening_Context_Engineering.md) |
+| C16 | Pretraining | [Post-Training and the Pretraining Handoff](concepts/Day_04_Evening_Post_Training_Handoff.md) |
+
+### 📋 End of Day 4
+
+**Questions asked:** 3 cumulative · **Answered:** 0 · **Graded:** 0 · **Concepts delivered:** 16
+
+With C15 and C16, both coverage maps are essentially complete end to end. From here the
+useful work is depth on weak areas and repetition under pressure — both of which require
+graded answers. Continuing to add breadth has diminishing returns.
