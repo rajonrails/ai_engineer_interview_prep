@@ -171,3 +171,25 @@ No new question. Q1, Q2 and Q3 remain open from Days 1-2.
 With C15 and C16, both coverage maps are essentially complete end to end. From here the
 useful work is depth on weak areas and repetition under pressure — both of which require
 graded answers. Continuing to add breadth has diminishing returns.
+
+---
+
+## Day 5 — 2026-09-22
+
+### ☀️ Morning Drop — 2 worked answers (format change)
+
+| # | Track | Topic |
+|---|---|---|
+| WA1 | FDE | [Worked Answer — Q1: Fintech cost and latency](worked_answers/Q1_Fintech_Cost_And_Latency.md) |
+| WA2 | Pretraining | [Worked Answer — Q2: Loss spike at step 41,000](worked_answers/Q2_Loss_Spike_At_Step_41k.md) |
+
+**Why the format changed.** Both coverage maps completed on Day 4, so additional breadth has
+low marginal value. These deliver the standing Day 2 offer instead: full model answers at the
+Strong Hire bar, annotated with what each move signals to an interviewer, plus a grade
+rubric showing what separates a 2 from a 4 on the same question.
+
+This also makes the grading bar concrete rather than abstract — useful whenever the loop
+does start, and useful on its own as calibration.
+
+### 🌙 Evening Drop
+*Pending — fires 7pm PT*
