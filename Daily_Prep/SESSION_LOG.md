@@ -191,5 +191,20 @@ rubric showing what separates a 2 from a 4 on the same question.
 This also makes the grading bar concrete rather than abstract — useful whenever the loop
 does start, and useful on its own as calibration.
 
-### 🌙 Evening Drop
-*Pending — fires 7pm PT*
+### 🌙 Evening Drop — 2 worked answers
+
+| # | Track | Topic |
+|---|---|---|
+| WA3 | FDE | [Q3 — Refund agent safety model](worked_answers/Q3_Refund_Agent_Safety_Model.md) |
+| WA4 | Pretraining | [Q4 — 400B parallelism plan on 512 H100s](worked_answers/Q4_Parallelism_Plan_400B.md) |
+
+WA3 closes out the three questions posed on Days 1-2. WA4 works the canonical pretraining
+design question end to end — it was flagged as the archetype in C02 but never worked through.
+
+### 📋 End of Day 5
+
+**Concepts:** 16 · **Worked answers:** 4 · **Graded answers:** 0
+
+All three originally-posed questions now have published model answers at the Strong Hire bar,
+each with a 1-4 rubric. The material side of this program is complete: full coverage of both
+tracks, plus worked examples showing what the bar looks like in practice.

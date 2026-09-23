@@ -3,7 +3,7 @@
 Running scorecard. Updated after every graded answer. This drives question selection —
 weak topics get re-asked under different framings until they hit two consecutive 3+ grades.
 
-**Last updated:** 2026-09-22 morning (Day 5 — no graded data; coverage complete; now producing worked answers)
+**Last updated:** 2026-09-22 end of day (Day 5 — no graded data; coverage complete; 4 worked answers published)
 
 > **Open calibration question:** 18 months of pretraining covers a wide range — from
 > "owned the data pipeline" to "owned the model architecture" to "owned the 4096-GPU run."
@@ -120,3 +120,5 @@ Model answers at the Strong Hire bar, annotated with interviewer signals and a g
 |---|---|---|---|
 | WA1 | 5 AM | FDE | [Q1 — Fintech cost and latency](worked_answers/Q1_Fintech_Cost_And_Latency.md) |
 | WA2 | 5 AM | Pretraining | [Q2 — Loss spike at step 41,000](worked_answers/Q2_Loss_Spike_At_Step_41k.md) |
+| WA3 | 5 PM | FDE | [Q3 — Refund agent safety model](worked_answers/Q3_Refund_Agent_Safety_Model.md) |
+| WA4 | 5 PM | Pretraining | [Q4 — 400B parallelism plan on 512 H100s](worked_answers/Q4_Parallelism_Plan_400B.md) |
