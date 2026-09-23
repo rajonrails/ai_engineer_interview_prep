@@ -208,3 +208,27 @@ design question end to end — it was flagged as the archetype in C02 but never 
 All three originally-posed questions now have published model answers at the Strong Hire bar,
 each with a 1-4 rubric. The material side of this program is complete: full coverage of both
 tracks, plus worked examples showing what the bar looks like in practice.
+
+---
+
+## Day 6 — 2026-09-23
+
+### ☀️ Morning Drop — 2 quick-reference sheets
+
+| # | Track | Topic |
+|---|---|---|
+| QR1 | FDE | [FDE Quick Reference](cheatsheets/FDE_Quick_Reference.md) |
+| QR2 | Pretraining | [Pretraining Quick Reference](cheatsheets/Pretraining_Quick_Reference.md) |
+
+Synthesis rather than new material: every formula, number, one-liner, diagnostic ladder and
+framework table from the 16 concepts, condensed into two documents built for the 30 minutes
+before an onsite. Each line links back to its source concept.
+
+### 📋 Status
+
+**Concepts:** 16 · **Worked answers:** 4 · **Quick refs:** 2 · **Graded answers:** 0
+
+The material is complete. Concepts cover both tracks end to end, worked answers demonstrate
+the bar with rubrics, and the quick references condense it for recall. There is no further
+content that would meaningfully improve this program — what remains is the feedback loop,
+which needs input that has not arrived.
