@@ -232,3 +232,20 @@ The material is complete. Concepts cover both tracks end to end, worked answers 
 the bar with rubrics, and the quick references condense it for recall. There is no further
 content that would meaningfully improve this program — what remains is the feedback loop,
 which needs input that has not arrived.
+
+---
+
+### 🌙 Day 6 Evening — 2 concepts (a real gap, not padding)
+
+| # | Track | Topic |
+|---|---|---|
+| C17 | FDE (both) | [Behavioral Rounds for Technical Roles](concepts/Day_06_Evening_Behavioral_Rounds.md) |
+| C18 | Pretraining | [Telling the Pretraining Story: Scope, Credit, Leveling](concepts/Day_06_Evening_Telling_The_Pretraining_Story.md) |
+
+Both coverage maps were purely technical, which was an omission: every loop has one or two
+behavioral/experience rounds, and they are where strong engineers most often get
+down-levelled. C18 addresses the problem specific to this candidate — pretraining is
+collective work, so the interview needs to know what they personally owned, and both
+overclaiming and underclaiming are costly.
+
+Coverage maps updated to include these areas.

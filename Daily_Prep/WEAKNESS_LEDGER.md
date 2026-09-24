@@ -3,7 +3,7 @@
 Running scorecard. Updated after every graded answer. This drives question selection —
 weak topics get re-asked under different framings until they hit two consecutive 3+ grades.
 
-**Last updated:** 2026-09-23 morning (Day 6 — no graded data; all material complete)
+**Last updated:** 2026-09-23 end of day (Day 6 — no graded data; added behavioral coverage)
 
 > **Open calibration question:** 18 months of pretraining covers a wide range — from
 > "owned the data pipeline" to "owned the model architecture" to "owned the 4096-GPU run."
@@ -48,6 +48,7 @@ Tracks which areas have been tested at all. Untested ≠ strong.
 | Customer scoping under ambiguity | ⬜ untested | — |
 | Live Python coding speed | ⬜ untested | — |
 | Security: prompt injection, data boundaries | ⬜ untested | — |
+| Behavioral: story bank, disagreement, failure | ⬜ untested | — |
 
 ### Pretraining Engineer (50%) — difficulty floor raised: 18mo experience, expect senior-bar questions
 
@@ -66,6 +67,7 @@ Tracks which areas have been tested at all. Untested ≠ strong.
 | RoPE / positional schemes & context extension | ⬜ untested | — |
 | Optimizer internals (AdamW, muP, LR schedules) | ⬜ untested | — |
 | Post-training handoff (SFT/RLHF interface) | ⬜ untested | — |
+| Experience narrative: scope, credit, leveling | ⬜ untested | — |
 
 ---
 
@@ -111,6 +113,8 @@ being able to answer on it under pressure.
 | C14 | 4 AM | Pretraining | AdamW decoupled decay, beta2=0.95, clipping placement, WSD schedules, muP transfer |
 | C15 | 4 PM | FDE | Context engineering: position effects, the cache boundary, compaction, untrusted delimiting |
 | C16 | 4 PM | Pretraining | SFT, RLHF/PPO and the KL term, DPO, RLVR, what post-training needs from the base |
+| C17 | 6 PM | Both | Behavioral rounds: the five beats, disagreement and failure stories, the story bank |
+| C18 | 6 PM | Pretraining | Attribution sentence, three-levels-down rule, leveling signals, NDA-safe framing |
 
 ## Worked Answers
 
