@@ -249,3 +249,27 @@ collective work, so the interview needs to know what they personally owned, and 
 overclaiming and underclaiming are costly.
 
 Coverage maps updated to include these areas.
+
+---
+
+## Day 7 — 2026-09-24
+
+### ☀️ Morning Drop — 2 drill banks
+
+| # | Track | Topic |
+|---|---|---|
+| D1 | FDE | [FDE Drill Bank](drills/FDE_Drills.md) |
+| D2 | Pretraining | [Pretraining Drill Bank](drills/Pretraining_Drills.md) |
+
+Every self-check across the 18 concepts, consolidated into rapid-fire Q&A with concise
+answers, for spaced repetition. Designed to be answered out loud — recognizing an answer and
+producing one are different skills, and interviews test the second.
+
+### 📋 Material complete
+
+**Concepts:** 18 · **Worked answers:** 4 · **Quick refs:** 2 · **Drill banks:** 2 ·
+**Graded answers:** 0
+
+This is the last new material. Both tracks are covered end to end, the bar is demonstrated
+with rubrics, the content is condensed for recall, and it is drillable. Anything further
+would be restatement.

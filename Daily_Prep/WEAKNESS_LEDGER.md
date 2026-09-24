@@ -3,7 +3,7 @@
 Running scorecard. Updated after every graded answer. This drives question selection —
 weak topics get re-asked under different framings until they hit two consecutive 3+ grades.
 
-**Last updated:** 2026-09-23 end of day (Day 6 — no graded data; added behavioral coverage)
+**Last updated:** 2026-09-24 morning (Day 7 — no graded data; material complete)
 
 > **Open calibration question:** 18 months of pretraining covers a wide range — from
 > "owned the data pipeline" to "owned the model architecture" to "owned the 4096-GPU run."
@@ -133,3 +133,10 @@ Model answers at the Strong Hire bar, annotated with interviewer signals and a g
 |---|---|---|---|
 | QR1 | 6 AM | FDE | [FDE Quick Reference](cheatsheets/FDE_Quick_Reference.md) |
 | QR2 | 6 AM | Pretraining | [Pretraining Quick Reference](cheatsheets/Pretraining_Quick_Reference.md) |
+
+## Drill Banks
+
+| # | Day | Track | Topic |
+|---|---|---|---|
+| D1 | 7 AM | FDE | [FDE Drill Bank](drills/FDE_Drills.md) |
+| D2 | 7 AM | Pretraining | [Pretraining Drill Bank](drills/Pretraining_Drills.md) |
